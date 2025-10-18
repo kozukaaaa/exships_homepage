@@ -1,15 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>公式ホームページ｜合同会社エクスシップス | exships LLC</title>
+
+    <!-- SEOメタタグ -->
+    <meta
+      name="description"
+      content="合同会社エクスシップス（exships LLC）は、ITで“真の価値”を提供するアプリケーション開発会社です。Agile/Scrumによるチーム開発を通じ、iOS/Android向けソフトウェア開発を支援します。"
+    />
+    <meta
+      name="keywords"
+      content="exships, エクスシップス, 合同会社エクスシップス, アプリ開発, IT, Agile, Scrum"
+    />
+
+    <!-- Open Graph / SNSシェア用 -->
+    <meta
+      property="og:title"
+      content="公式ホームページ｜合同会社エクスシップス | exships LLC"
+    />
+    <meta
+      property="og:description"
+      content="ITで“真の価値”を提供するアプリ開発会社 exships LLC（合同会社エクスシップス）"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://exships.github.io/exships-site/" />
+    <meta
+      property="og:image"
+      content="https://exships.github.io/exships-site/ogp.png"
+    />
+    <meta property="og:site_name" content="exships LLC" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
