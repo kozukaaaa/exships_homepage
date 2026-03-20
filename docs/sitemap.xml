@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://exships.github.io/exships-site/</loc>
+    <loc>https://exships.jp/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/message</loc>
+    <loc>https://exships.jp/message</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/company</loc>
+    <loc>https://exships.jp/company</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/projects</loc>
+    <loc>https://exships.jp/projects</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/blog</loc>
+    <loc>https://exships.jp/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/blog/ai-agent-vs-human</loc>
+    <loc>https://exships.jp/blog/ai-agent-vs-human</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/blog/kmp-ios-android</loc>
+    <loc>https://exships.jp/blog/kmp-ios-android</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/blog/agile-retrospective</loc>
+    <loc>https://exships.jp/blog/agile-retrospective</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/blog/vue3-vuetify3-corporate</loc>
+    <loc>https://exships.jp/blog/vue3-vuetify3-corporate</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/contact</loc>
+    <loc>https://exships.jp/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/privacy_policy</loc>
+    <loc>https://exships.jp/privacy_policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://exships.github.io/exships-site/#/terms_of_use</loc>
+    <loc>https://exships.jp/terms_of_use</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

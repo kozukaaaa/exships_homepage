@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://exships.github.io/exships-site/sitemap.xml
+Sitemap: https://exships.jp/sitemap.xml
