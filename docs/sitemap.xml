@@ -41,6 +41,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://exships.jp/blog/ford-ai-quality-veterans</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://exships.jp/blog/ai-sleep-learning</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
