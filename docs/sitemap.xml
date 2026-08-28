@@ -48,25 +48,31 @@
   </url>
   <url>
     <loc>https://exships.jp/blog/ai-agent-vs-human</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exships.jp/blog/ai-ish-design-decision</loc>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://exships.jp/blog/ai-sleep-learning</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://exships.jp/blog/early-bird-one-week</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://exships.jp/blog/ford-ai-quality-veterans</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -78,7 +84,7 @@
   </url>
   <url>
     <loc>https://exships.jp/blog/train-congestion-ai-camera</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
